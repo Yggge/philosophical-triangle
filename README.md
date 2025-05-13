@@ -1,44 +1,43 @@
-# philosophical-triangle
+# Philosophical Triangle
 
-This project explores the philosophical concept of the triangle, focusing on the interaction between Creativity, Mastery, and Consciousness. The triangle is used as a metaphor for various layers of human existence and their synthesis.
+A modular concept and visual model of a philosophical system based on the interaction of **Creativity**, **Mastery**, and **Consciousness** — forming a triangle whose internal harmony gives rise to **Synthesis**.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Yggge/philosophical-triangle.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd philosophical-triangle
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
+## Concept
 
-## Contributing
-Feel free to fork this repository and submit pull requests for improvements or bug fixes.
+The **Philosophical Triangle** is structured on three intersecting layers:
+
+1. **Philosophy Layer**
+   - Creativity (A)
+   - Consciousness (C)
+   - Mastery (E)
+
+2. **Psychological Layer**
+   - Creators
+   - Intellectuals
+   - Professionals
+
+3. **Social Layer**
+   - Declarers
+   - Balancers
+   - Result-driven
+
+Each layer reflects a deep aspect of human nature, action, or society, unified through the geometric metaphor of a triangle. The model supports modular visualization, allowing translation, decorative customization, and interaction modes.
+
+## Features
+
+- Interactive geometric structure (matplotlib + Jupyter)
+- Configurable triangle with dynamic point motion
+- Extendable system for translations, UI themes, and behavioral modules
+
+## Author
+
+Created by [Yggge](https://github.com/Yggge)  
+Idea and development by **Yggge**
 
 ## License
 
-MIT License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-Copyright (c) 2025 Yggge
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+> 🧩 This project is in active development. Modular extensions (visual design, translation layers, experimental features) are planned.
