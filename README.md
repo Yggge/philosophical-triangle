@@ -10,10 +10,10 @@ A modular concept and visual model of a philosophical system based on the intera
 
 The **Philosophical Triangle** is structured on three intersecting layers:
 
-1. **Philosophy Layer**
-   - Creativity *(abbr. as Cr)*
-   - Consciousness *(abbr. as Co)*
-   - Mastery *(M)*
+2. **Psychological Layer**
+   - **Creators** — expressive individuals with impulsive and fast-reacting nervous systems
+   - **Intellectuals** — reflective and analytical thinkers with flexible nervous responses
+   - **Professionals** — balanced and practical individuals with slow-reacting nervous systems
 
 2. **Psychological Layer**
    - Creators
