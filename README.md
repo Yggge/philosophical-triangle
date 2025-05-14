@@ -2,7 +2,9 @@
 
 A modular concept and visual model of a philosophical system based on the interaction of **Creativity**, **Mastery**, and **Consciousness** — forming a triangle whose internal harmony gives rise to **Synthesis**.
 
-![Philosophical Triangle](./assets/Triangle.png)
+<p align="center">
+  <img src="./assets/Triangle.png" alt="Philosophical Triangle" width="400"/>
+</p>
 
 ## Concept
 
