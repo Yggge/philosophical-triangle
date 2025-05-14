@@ -11,9 +11,9 @@ A modular concept and visual model of a philosophical system based on the intera
 The **Philosophical Triangle** is structured on three intersecting layers:
 
 1. **Philosophy Layer**
-   - Creativity (A)
-   - Consciousness (C)
-   - Mastery (E)
+   - Creativity *(abbr. as Cr)*
+   - Consciousness *(abbr. as Co)*
+   - Mastery *(M)*
 
 2. **Psychological Layer**
    - Creators
