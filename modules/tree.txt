@@ -1,0 +1,20 @@
+Структура папок тома Windows
+Серийный номер тома: 1CC0-B5A4
+C:.
+¦   tree.txt
+¦   untitled1.txt
+¦   __init__.py
+¦   
++---.ipynb_checkpoints
++---decorations
+¦       __init__.py
+¦       
++---predistortions
+¦       __init__.py
+¦       
++---translations
+¦       __init__.py
+¦       
+L---visualization
+        __init__.py
+        
